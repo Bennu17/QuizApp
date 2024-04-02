@@ -1,0 +1,21 @@
+.score{
+    /* margin-top: 100px; */
+    height: 290px;
+    width: 1290px;
+    /* margin-left: 50px; */
+    background-image: url('minion.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding: auto;
+    text-align: center;
+    color: antiquewhite;
+    
+    /* margin: auto; */
+}
+.score1{
+    padding-left: 400px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

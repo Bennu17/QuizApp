@@ -1,0 +1,62 @@
+.container{
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    background: beige;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+body{
+    background-image: url('interstellar2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container .h1box{
+    background-color: black;
+    background-repeat: repeat;
+    
+    height:auto;
+    color:azure
+    /* height: 2px; */
+    /* width: 2px; */
+    /* border: none; */
+}
+.container h2{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.container ul li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    border: 1px solid rgb(14, 13, 13);
+    border-radius: 10px;
+    /* margin-top: 3px; */
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    padding-left: 5px;
+    padding-top: 5px;
+    text-align: center;
+
+}
+.container button{
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+    margin: auto;
+    background-color: cornflowerblue;
+    color: beige;
+    font-size: 25px;
+    cursor: pointer;
+}
+.container .index{
+    margin: auto;
+    font-size: 20px;
+}
